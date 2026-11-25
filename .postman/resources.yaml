@@ -1,0 +1,13 @@
+# Use this workspace to collaborate
+workspace:
+  id: 1678cc58-d38f-47dd-88d1-2b88d7c38804
+
+cloudResources:
+  collections:
+    ../postman/collections/SIAKAD TRPL - API DATA MATA KULIAH: 9d8502e3-e1b3-4a1d-b6fc-3553c9ecf29a
+
+# All resources in the `postman/` folder are automatically registered in Local View.
+# Point to additional files outside the `postman/` folder to register them individually. Example:
+#localResources:
+#  collections:
+#    - ../tests/E2E Test Collection/

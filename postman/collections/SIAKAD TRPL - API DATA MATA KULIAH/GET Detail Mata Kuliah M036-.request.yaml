@@ -1,0 +1,5 @@
+$kind: http-request
+name: GET Detail Mata Kuliah M036.
+url: ""
+method: GET
+order: 10000

@@ -1,0 +1,14 @@
+$kind: collection
+description: |-
+  API Data Mata Kuliah Program Studi  
+  Teknologi Rekayasa Perangkat Lunak  
+  Politeknik Negeri Medan
+
+  Backend: CodeIgniter 4  
+  Database: PostgreSQL  
+  Kelompok: 3  
+  Tahun Akademik: 2026/2027
+
+  API digunakan untuk menyediakan data mata kuliah  
+  yang dapat diintegrasikan dengan API Dosen  
+  dan API Jadwal Perkuliahan.
